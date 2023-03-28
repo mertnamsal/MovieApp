@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1500" />
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.5.3.Final/dce418bedafd71ff8dd2cef15006c0fee788b073/mapstruct-processor-1.5.3.Final.jar" />
+        </processorPath>
+        <module name="com.bilgeadam.MovieRecommendationAppJava5.api-gateway-service.main" />
+        <module name="config-server.MovieRecommendationAppJava5.config-server.main" />
+        <module name="MovieRecommendationAppJava5.main" />
+        <module name="user-service.MovieRecommendationAppJava5.user-service.main" />
+        <module name="com.bilgeadam.MovieRecommendationAppJava5.config-server-git.main" />
+        <module name="mail-service.MovieRecommendationAppJava5.mail-service.main" />
+        <module name="MovieRecommendationAppJava5.movie-service.main" />
+        <module name="MovieRecommendationAppJava5.elastic-service.main" />
+        <module name="auth-service.MovieRecommendationAppJava5.auth-service.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>
